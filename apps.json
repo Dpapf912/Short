@@ -1,0 +1,94 @@
+{  
+  "name": "Dori’s apps",  
+  "subtitle": "A source for all of my apps",  
+  "description": "Welcome to my source! Here you'll find all of my apps.",  
+  "iconURL": "https://i.imgur.com/wbvw1GM.png",  
+  "website": "https://altstudio.app",  
+  "patreonURL": "https://patreon.com/altstudio",  
+  "tintColor": "#6156e2",  
+  "headerURL": "https://i.imgur.com/TNtPxOs.png",  
+  "featuredApps": [],  
+  "apps": [  
+    {  
+      "name": "Death squid",  
+      "bundleIdentifier": "xyz.casi3.SummertimeSaga",  
+      "developerName": "Example Developer",  
+      "subtitle": "An awesome app.",  
+      "localizedDescription": "This is an awesome app only available on SideStore.",  
+      "iconURL": "https://i.imgur.com/ThhEBUx.png",  
+      "tintColor": "#94542c",  
+      "category": "other",  
+      "screenshots": [],  
+      "versions": [  
+        {  
+          "version": "1.0",  
+          "buildVersion": "1",  
+          "releaseDate": "2026-01-01",  
+          "downloadURL": "https://example.com/deathsquid.ipa",  
+          "size": 100000000  
+        }  
+      ]  
+    },  
+    {  
+      "name": "Hill Climb 2",  
+      "bundleIdentifier": "com.fingersoft.hillclimbracing2",  
+      "developerName": "Example Developer",  
+      "subtitle": "An awesome app.",  
+      "localizedDescription": "This is an awesome app only available on SideStore.",  
+      "iconURL": "https://i.imgur.com/iB7JXjr.png",  
+      "tintColor": "#6cdcf4",  
+      "category": "other",  
+      "screenshots": [],  
+      "versions": [  
+        {  
+          "version": "1.0",  
+          "buildVersion": "1",  
+          "releaseDate": "2026-01-01",  
+          "downloadURL": "https://example.com/hillclimb2.ipa",  
+          "size": 120000000  
+        }  
+      ]  
+    },  
+    {  
+      "name": "Aidoku",  
+      "bundleIdentifier": "app.aidoku.Aidoku",  
+      "developerName": "Example Developer",  
+      "subtitle": "An awesome app.",  
+      "localizedDescription": "This is an awesome app only available on SideStore.",  
+      "iconURL": "https://i.imgur.com/ah7YIvl.png",  
+      "tintColor": "#fc2c54",  
+      "category": "other",  
+      "screenshots": [],  
+      "versions": [  
+        {  
+          "version": "1.0",  
+          "buildVersion": "1",  
+          "releaseDate": "2026-01-01",  
+          "downloadURL": "https://example.com/aidoku.ipa",  
+          "size": 90000000  
+        }  
+      ]  
+    },  
+    {  
+      "name": "RSBoxingChampions",  
+      "bundleIdentifier": "com.reliancegames.rschampions",  
+      "developerName": "Example Developer",  
+      "subtitle": "An awesome app.",  
+      "localizedDescription": "This is an awesome app only available on SideStore.",  
+      "iconURL": "https://i.imgur.com/jl015rV.png",  
+      "tintColor": "#04ccec",  
+      "category": "other",  
+      "screenshots": [],  
+      "versions": [  
+        {  
+          "version": "1.0",  
+          "buildVersion": "1",  
+          "releaseDate": "2026-01-01",  
+          "downloadURL": "https://example.com/rsboxing.ipa",  
+          "size": 150000000  
+        }  
+      ]  
+    }  
+  ],  
+  "news": []  
+}  
